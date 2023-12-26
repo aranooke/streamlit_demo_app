@@ -1,2 +1,2 @@
 streamlit
-tensorflow-cpu
+tensorflow==2.7.0
